@@ -16,7 +16,7 @@ Fatorial de 3: 6
 
 How to run this program:
 
-First clone this repository, after use the follow command:
+First clone this repository, after use the following command:
 
 "java Principal FACTORIAL_VALUE"
 
